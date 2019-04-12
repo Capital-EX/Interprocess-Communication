@@ -1,2 +1,5 @@
 *.docx
 ~*.tmp
+sockets/*/target
+sockets/**/*.rs.bk
+
